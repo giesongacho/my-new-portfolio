@@ -5,3 +5,6 @@ dist-ssr
 .env
 .DS_Store
 .vite
+
+# Local AI assistant context (not for the public repo)
+CLAUDE.md
